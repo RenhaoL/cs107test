@@ -8,3 +8,5 @@ script:
 after_success:
   - codecov
 
+CODECOV_TOKEN='9beb485e-b8ad-462e-8dee-6912260d69c1'
+
